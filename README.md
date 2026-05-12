@@ -56,21 +56,6 @@ Actividad2-API-REST/
     ├── .gitkeep
     ├── 01_endpoint_navegador.png
     ├── 02_ejecucion_script.png
-    └── 03_informe_consola.png
 ```
 
 ---
-
-## Subir a GitHub (PowerShell)
-
-```powershell
-cd "C:\Users\vican\OneDrive\Escritorio\Claude Code\Actividad2-API-REST"
-git init
-git add .
-git commit -m "Actividad 2: Cliente REST con JSONPlaceholder"
-git branch -M main
-git remote add origin https://github.com/[USUARIO]/[REPO].git
-git push -u origin main
-```
-
-> Reemplaza `[USUARIO]` con tu nombre de usuario de GitHub y `[REPO]` con el nombre del repositorio que hayas creado.
