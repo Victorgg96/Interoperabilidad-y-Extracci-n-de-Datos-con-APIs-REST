@@ -50,7 +50,7 @@ python cliente_rest.py
 Actividad2-API-REST/
 ├── cliente_rest.py      # Script principal
 ├── README.md            # Este archivo
-├── reporte.md           # Reporte académico completo
+├── Reporte.pdf          # Reporte académico completo
 ├── .gitignore           # Exclusiones de Git
 └── evidencias/          # Capturas de pantalla
     ├── .gitkeep
