@@ -52,7 +52,7 @@ Actividad2-API-REST/
 ├── README.md            # Este archivo
 ├── reporte.md           # Reporte académico completo
 ├── .gitignore           # Exclusiones de Git
-└── evidencias/          # Capturas de pantalla (adjuntar manualmente)
+└── evidencias/          # Capturas de pantalla
     ├── .gitkeep
     ├── 01_endpoint_navegador.png
     ├── 02_ejecucion_script.png
